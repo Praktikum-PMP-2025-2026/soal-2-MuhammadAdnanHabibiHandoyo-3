@@ -1,3 +1,13 @@
+/** EL2008 Praktikum Pemecahan Masalah dengan Pemrograman 2024/2025
+ *   Modul               : 2 Structurre and Dynamic Array
+ *   Hari dan Tanggal    : Rabu, 22 April 2026
+ *   Nama (NIM)          : Muhammad Adnan Habibi Handoyo (13224093)
+ *   Nama File           : soal2.c
+ *   Deskripsi           : 
+ * Program menerima data nama meteor, massa, dan kemurnian kemudian diurutkan
+ * berdasarkan kemurnian, massa, dan alfabet
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
